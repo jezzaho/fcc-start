@@ -1,5 +1,6 @@
 {
-
+	"author": "Eryczenko",
+	"description": "No to takie dziwne coś, opsianie o co cho",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -11,6 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Eryczenko"
+	}
+
 }
